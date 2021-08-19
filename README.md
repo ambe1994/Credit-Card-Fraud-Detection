@@ -3,7 +3,6 @@ This project used to detect the fraud credit card transaction.
 ## Install
 This project requires [Python 3](https://www.python.org/) and the following Python libraries installed:
 
-[NumPy](https://numpy.org/)
 [Panda](https://pandas.pydata.org/)
 [matplotlib](https://matplotlib.org/)
 [scikit-learn](https://scikit-learn.org/stable/)
