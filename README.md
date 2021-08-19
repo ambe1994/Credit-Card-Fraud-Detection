@@ -4,7 +4,6 @@ This project used to detect the fraud credit card transaction.
 This project requires [Python 3](https://www.python.org/) and the following Python libraries installed:
 
 [Panda](https://pandas.pydata.org/)
-[matplotlib](https://matplotlib.org/)
 [scikit-learn](https://scikit-learn.org/stable/)
 You will also need to install Anaconda software, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
